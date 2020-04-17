@@ -1,4 +1,4 @@
-var n = 144;
+var n = 12;
 var range = Math.floor(Math.sqrt(n));
 var devisors = "";
 
